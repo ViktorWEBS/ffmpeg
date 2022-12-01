@@ -3,4 +3,4 @@
 **Дякую!**
 
 * **[MENU](https://github.com/ViktorWEBS/ffmpeg/wiki/_Sidebar-Menu-ffmpeg/)**
-* ** [Github](https://github.com/FFmpeg/FFmpeg)**
+* **[Github](https://github.com/FFmpeg/FFmpeg)**
